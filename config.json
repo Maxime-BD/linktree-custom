@@ -1,0 +1,34 @@
+{
+  "title": "- OHRSMR -",
+  "img": "https://mbd.ink/smr-assets/logo-light.svg",
+  "alt": "ntm",
+  "desc": "nos réseaux sociaux :",
+  "L1": {
+    "type": "instagram",
+    "link": "https://mbd.ink",
+    "icon": "fa-instagram",
+    "title": "Instagram",
+    "desc": "pour les photos de nos concerts"
+  },
+  "L2": {
+    "type": "facebook",
+    "link": "https://mbd.ink",
+    "icon": "fa-facebook",
+    "title": "Facebook",
+    "desc": "pour les informations et photos"
+  },
+  "L3": {
+    "type": "youtube",
+    "link": "https://mbd.ink",
+    "icon": "fa-youtube",
+    "title": "Youtube",
+    "desc": "pour les vidéos de nos concerts"
+  },
+  "L4": {
+    "type": "Website",
+    "link": "https://mbd.ink",
+    "icon": "fa-globe",
+    "title": "notre site web",
+    "desc": "pour tout savoir sur nous"
+  }
+}
